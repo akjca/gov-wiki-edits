@@ -2,17 +2,4 @@ gov-wiki-edits
 ==============
 
 
-+ "RCMP": [
-+ [
-+ "199.212.148.0",
-+ "199.212.151.255"
-+ ],
-+ [
-+ "142.72.0.0",
-+ "142.72.255.255"
-+ ]
-+ [
-+ "142.235.0.0",
-+ "142.235.255.255"
-+ ]
-+ ],
+This repository is for IP addresses that will be turned into a provicial version of @gccaedits
